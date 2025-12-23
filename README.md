@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Alina
-- 👀 I’m interested in coding and everything somewhat related to literature
-- 🌱 I’m currently learning how to code with Swift
+- hello! 
