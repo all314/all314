@@ -1,1 +1,1 @@
-Hi! I'm a high school sophomore, self-teaching myself to code with various languages and analyze data. 
+Hello! I am a high school sophomore, primarily interested in working with machine learning and data analysis involving Python and Jupyter Notebook. 
